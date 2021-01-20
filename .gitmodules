@@ -1,0 +1,24 @@
+[submodule "geditmax"]
+	path = geditmax
+	url = https://github.com/kfprimm/geditmax.git
+[submodule "gfx.mod"]
+	path = gfx.mod
+	url = https://github.com/kfprimm/gfx.mod.git
+[submodule "mapletce"]
+	path = mapletce
+	url = https://github.com/kfprimm/mapletce.git
+[submodule "maxb3d"]
+	path = maxb3d
+	url = https://github.com/kfprimm/maxb3d.git
+[submodule "maxb3dex.mod"]
+	path = maxb3dex.mod
+	url = https://github.com/kfprimm/maxb3dex.mod.git
+[submodule "minib3d"]
+	path = minib3d
+	url = https://github.com/kfprimm/minib3d.git
+[submodule "nehe_bmx"]
+	path = nehe_bmx
+	url = https://github.com/kfprimm/nehe_bmx.git
+[submodule "prime.mod"]
+	path = prime.mod
+	url = https://github.com/kfprimm/prime.mod.git
